@@ -1,0 +1,7 @@
+## Interface: 11500
+## Title: meVendor
+## Notes: Vendor Utility
+## Author: Bailey Douglass
+## Version: 1.0
+## SavedVariables: meVendor_SellPrices, meVendor_CustomSellList
+main.lua
